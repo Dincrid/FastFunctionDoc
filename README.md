@@ -1,2 +1,2 @@
-# FastFunctionDoc
+## FastFunctionDoc
 FastFunctionRunnerDocumentation
